@@ -6,4 +6,4 @@ Libraries used: PyPDF2(https://pypi.org/project/PyPDF2/)  and pyttsx3(https://py
 
 PyPDF2: It is used to extract text and split the PDF.
 
-pyttsx3: Helps to covert text to speech.
+pyttsx3: Helps to convert text to speech.
